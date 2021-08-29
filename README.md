@@ -52,8 +52,8 @@ imagens líquidas...
 
 ## 🎨Layout
 
-O layout foi fornecido pelo professor do Jamilton Damasceno 
-[Jamilton Damasceno](https://www.linkedin.com/in/jamiltondamasceno/) :
+O layout foi fornecido pelo professor 
+[Jamilton Damasceno](https://www.linkedin.com/in/jamiltondamasceno/).
 
 
 ### 🛠Tecnologias
